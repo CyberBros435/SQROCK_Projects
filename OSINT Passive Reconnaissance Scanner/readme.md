@@ -23,4 +23,4 @@ Enter a domain when prompted (e.g. `sqrock.cloud`).
 This tool is **passive only** — no packets sent to the target beyond a standard DNS lookup, no scanning, no direct probing. Contrast with active recon (Nmap port scans, banner grabbing) which touches the target directly and can be logged/detected by the target's systems.
 
 ## Full Analysis
-See [`report.md`](report.md) for tested domains, findings, and screenshots.
+See [`report/report.md`](report/report.md) for tested domains, findings, and screenshots.
