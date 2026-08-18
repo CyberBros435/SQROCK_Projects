@@ -1,0 +1,6 @@
+timestamp: 2026-08-18 09:02:59.177464
+hostname: KALI
+os: Windows
+version: 10.0.19045
+user: mudas
+cwd: D:\Internships\SQRock\Projects\USB_Drop_Attack_Simulation
