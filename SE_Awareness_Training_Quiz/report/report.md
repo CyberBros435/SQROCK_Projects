@@ -8,7 +8,6 @@ Build a 10+ question CLI quiz engine covering SE attack scenarios, with score tr
 ## Screenshots
 ![Code — question bank](s4.png)
 ![Code — quiz function + JSON export](s1.png)
-![Terminal — Q1-Q2 partial run](s11.png)
 ![Terminal — Q1-Q4 progress](s10.png)
 ![Terminal — Q1-Q3 with feedback](s9.png)
 ![Terminal — full run Q1-Q6](s6.png)
